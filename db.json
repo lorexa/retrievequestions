@@ -1,4 +1,4 @@
-{
+[
   "authToken": "b04e6551-a184-4305-aa57-8e86360fc732",
   "provider": "tui",
   "questions": [
@@ -29,4 +29,4 @@
                                     ]
                     }
                 ]
-}
+]
